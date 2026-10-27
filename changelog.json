@@ -1,40 +1,94 @@
 {
   "entries": [
-    { "code": 1340, "name": "0.1.340", "date": "27 Oct 2026", "notes": [
-      "Odometer: a day that's already logged now shows a calm Saved button instead of a fresh one, and the day's distance stands out clearly.",
-      "Odometer: shows Location on file when a reading already has GPS, instead of a wrong No location.",
-      "New photo picker with clear Camera and Gallery buttons.",
-      "Visit check-in and check-out now show a map of the location being captured.",
-      "Call history tabs scroll sideways, so Skipped is no longer cut off."
-    ] },
-    { "code": 1339, "name": "0.1.339", "date": "26 Oct 2026", "notes": [
-      "Updates now download with a progress bar and the file size.",
-      "The after-call outcome prompt is on by default for everyone.",
-      "Tapping a log-your-call reminder opens that exact call.",
-      "New Internal tab in call history for colleague calls.",
-      "Log a call outcome in one tap from the Needs-outcome list."
-    ] },
-    { "code": 1338, "name": "0.1.338", "date": "25 Oct 2026", "notes": [
-      "Stability fixes and small polish."
-    ] },
-    { "code": 1337, "name": "0.1.337", "date": "Oct 2026", "notes": [
-      "Live team status, a home-screen team widget, and WhatsApp message templates."
-    ] },
-    { "code": 1333, "name": "0.1.333", "date": "Oct 2026", "notes": [
-      "Mark colleague calls as Internal, with a dedicated Internal view and manager stats."
-    ] },
-    { "code": 1332, "name": "0.1.332", "date": "Oct 2026", "notes": [
-      "Phone navigation bar now matches the app theme.",
-      "Call quality score, an open-actions digest, and do-not-disturb screening."
-    ] },
-    { "code": 1174, "name": "0.1.174", "date": "Sep 2026", "notes": [
-      "Edit a call summary right on the transcript screen."
-    ] },
-    { "code": 1173, "name": "0.1.173", "date": "Sep 2026", "notes": [
-      "More accurate call summaries."
-    ] },
-    { "code": 1171, "name": "0.1.171", "date": "Sep 2026", "notes": [
-      "Clearer call audio for better transcription."
-    ] }
+    {
+      "code": 1341,
+      "name": "0.1.341",
+      "date": "27 Oct 2026",
+      "notes": [
+        "You can now see what changed in each update.",
+        "Open More, then About, then What's new for the full version history."
+      ]
+    },
+    {
+      "code": 1340,
+      "name": "0.1.340",
+      "date": "27 Oct 2026",
+      "notes": [
+        "Odometer: a day that's already logged now shows a calm Saved button instead of a fresh one, and the day's distance stands out clearly.",
+        "Odometer: shows Location on file when a reading already has GPS, instead of a wrong No location.",
+        "New photo picker with clear Camera and Gallery buttons.",
+        "Visit check-in and check-out now show a map of the location being captured.",
+        "Call history tabs scroll sideways, so Skipped is no longer cut off."
+      ]
+    },
+    {
+      "code": 1339,
+      "name": "0.1.339",
+      "date": "26 Oct 2026",
+      "notes": [
+        "Updates now download with a progress bar and the file size.",
+        "The after-call outcome prompt is on by default for everyone.",
+        "Tapping a log-your-call reminder opens that exact call.",
+        "New Internal tab in call history for colleague calls.",
+        "Log a call outcome in one tap from the Needs-outcome list."
+      ]
+    },
+    {
+      "code": 1338,
+      "name": "0.1.338",
+      "date": "25 Oct 2026",
+      "notes": [
+        "Stability fixes and small polish."
+      ]
+    },
+    {
+      "code": 1337,
+      "name": "0.1.337",
+      "date": "Oct 2026",
+      "notes": [
+        "Live team status, a home-screen team widget, and WhatsApp message templates."
+      ]
+    },
+    {
+      "code": 1333,
+      "name": "0.1.333",
+      "date": "Oct 2026",
+      "notes": [
+        "Mark colleague calls as Internal, with a dedicated Internal view and manager stats."
+      ]
+    },
+    {
+      "code": 1332,
+      "name": "0.1.332",
+      "date": "Oct 2026",
+      "notes": [
+        "Phone navigation bar now matches the app theme.",
+        "Call quality score, an open-actions digest, and do-not-disturb screening."
+      ]
+    },
+    {
+      "code": 1174,
+      "name": "0.1.174",
+      "date": "Sep 2026",
+      "notes": [
+        "Edit a call summary right on the transcript screen."
+      ]
+    },
+    {
+      "code": 1173,
+      "name": "0.1.173",
+      "date": "Sep 2026",
+      "notes": [
+        "More accurate call summaries."
+      ]
+    },
+    {
+      "code": 1171,
+      "name": "0.1.171",
+      "date": "Sep 2026",
+      "notes": [
+        "Clearer call audio for better transcription."
+      ]
+    }
   ]
 }
