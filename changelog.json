@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "code": 1346,
+      "name": "0.1.346",
+      "date": "6 Nov 2026",
+      "notes": [
+        "Cards across the app sit flatter now, with a softer shadow instead of a heavy lift.",
+        "Fixed a grey strip that showed above the bottom bar on Accounts, Pipeline and other lists.",
+        "Smoother motion when you switch between the bottom tabs.",
+        "A quick light/dark theme switch now sits in the top bar.",
+        "What's new shows the latest versions, with a tap to see older ones."
+      ]
+    },
+    {
       "code": 1341,
       "name": "0.1.341",
       "date": "27 Oct 2026",
