@@ -1,9 +1,8 @@
 {
-  "code": 1347,
-  "name": "0.1.347",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.347/faceprep-crm-native.apk",
+  "code": 1348,
+  "name": "0.1.348",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.348/faceprep-crm-native.apk",
   "notes": [
-    "Odometer: your saved start/end photo can no longer be lost if you tap Save again on a slow connection.",
-    "Odometer: the Saved state shows immediately after you save. Tap Update only after changing the reading or photo."
+    "Call-logger status now shows your phone's app version, so you and your admin can see when an update is available."
   ]
 }
