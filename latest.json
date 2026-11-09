@@ -1,8 +1,8 @@
 {
-  "code": 1350,
-  "name": "0.1.350",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.350/faceprep-crm-native.apk",
+  "code": 1351,
+  "name": "0.1.351",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.351/faceprep-crm-native.apk",
   "notes": [
-    "Email: opening a message no longer cuts off half the body — the view now shows the full email."
+    "Email: removed the blank space that appeared after the message body."
   ]
 }
