@@ -1,8 +1,8 @@
 {
-  "code": 1349,
-  "name": "0.1.349",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.349/faceprep-crm-native.apk",
+  "code": 1350,
+  "name": "0.1.350",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.350/faceprep-crm-native.apk",
   "notes": [
-    "Fixed: with 'SIM 2 only' (or SIM 1 only) selected, calls made on the other SIM are no longer uploaded to the CRM."
+    "Email: opening a message no longer cuts off half the body — the view now shows the full email."
   ]
 }
