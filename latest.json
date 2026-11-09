@@ -1,8 +1,8 @@
 {
-  "code": 1348,
-  "name": "0.1.348",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.348/faceprep-crm-native.apk",
+  "code": 1349,
+  "name": "0.1.349",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.349/faceprep-crm-native.apk",
   "notes": [
-    "Call-logger status now shows your phone's app version, so you and your admin can see when an update is available."
+    "Fixed: with 'SIM 2 only' (or SIM 1 only) selected, calls made on the other SIM are no longer uploaded to the CRM."
   ]
 }
