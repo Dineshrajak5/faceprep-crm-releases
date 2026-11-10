@@ -1,9 +1,10 @@
 {
-  "code": 1353,
-  "name": "0.1.353",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.353/faceprep-crm-native.apk",
+  "code": 1354,
+  "name": "0.1.354",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.354/faceprep-crm-native.apk",
   "notes": [
-    "New: Ask SEA about the team — a chat that answers from your live CRM data: who's in today, each rep's day, calls, overdue follow-ups and the pipeline.",
-    "Open it from SEA, then \"Ask SEA about the team\". Rolling out to leadership first."
+    "Ask SEA now reads clearly: a team snapshot (attendance, inside-sales calls, field-sales visits and meetings, kept separate) plus who needs attention.",
+    "Field sales is measured by in-person visits and meetings, not calls.",
+    "Answers are formatted with headings and bullets."
   ]
 }
