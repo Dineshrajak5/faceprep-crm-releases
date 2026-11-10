@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "code": 1353,
+      "name": "0.1.353",
+      "date": "10 Nov 2026",
+      "notes": [
+        "New: Ask SEA about the team — a chat that answers from your live CRM data: who's in today, each rep's day, calls, overdue follow-ups and the pipeline.",
+        "Open it from SEA, then \"Ask SEA about the team\". Rolling out to leadership first."
+      ]
+    },
+    {
       "code": 1352,
       "name": "0.1.352",
       "date": "10 Nov 2026",
