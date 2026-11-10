@@ -1,8 +1,12 @@
 {
-  "code": 1351,
-  "name": "0.1.351",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.351/faceprep-crm-native.apk",
+  "code": 1352,
+  "name": "0.1.352",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.352/faceprep-crm-native.apk",
   "notes": [
-    "Email: removed the blank space that appeared after the message body."
+    "No-answer WhatsApp: the message is now written for you from the deal and stage — who you are, why you called, and when to call back — instead of 14 presets.",
+    "Purpose, tone and callback-window chips regenerate it; tap the bubble to edit.",
+    "New: Remind me to call back creates a callback task from the same sheet (+2h, next morning, or a time you pick).",
+    "Missed incoming calls get a proper 'sorry I missed your call' reply; a second attempt the same day sends a short nudge without re-introducing yourself.",
+    "Accounts marked Not Interested are no longer chased."
   ]
 }
