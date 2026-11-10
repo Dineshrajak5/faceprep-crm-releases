@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "code": 1354,
+      "name": "0.1.354",
+      "date": "10 Nov 2026",
+      "notes": [
+        "Ask SEA now reads clearly: a team snapshot card with attendance, inside sales (calls) and field sales (visits and meetings) kept separate, plus who needs attention.",
+        "Field sales is measured by in-person visits and meetings, not calls — field reps are no longer shown as idle just because they didn't dial.",
+        "Answers are formatted (headings and bullets) instead of one long line."
+      ]
+    },
+    {
       "code": 1353,
       "name": "0.1.353",
       "date": "10 Nov 2026",
