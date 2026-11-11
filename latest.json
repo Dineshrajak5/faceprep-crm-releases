@@ -1,10 +1,9 @@
 {
-  "code": 1354,
-  "name": "0.1.354",
-  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.354/faceprep-crm-native.apk",
+  "code": 1355,
+  "name": "0.1.355",
+  "url": "https://github.com/Dineshrajak5/faceprep-crm-releases/releases/download/v0.1.355/faceprep-crm-native.apk",
   "notes": [
-    "Ask SEA now reads clearly: a team snapshot (attendance, inside-sales calls, field-sales visits and meetings, kept separate) plus who needs attention.",
-    "Field sales is measured by in-person visits and meetings, not calls.",
-    "Answers are formatted with headings and bullets."
+    "Ask SEA now keeps your chat history — your past conversations are saved and you can reopen any of them.",
+    "New conversation and History live in the top bar of Ask SEA."
   ]
 }
