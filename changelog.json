@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "code": 1355,
+      "name": "0.1.355",
+      "date": "11 Nov 2026",
+      "notes": [
+        "Ask SEA now keeps your chat history: your past conversations are saved and you can reopen any of them.",
+        "New: New conversation and History buttons in the top bar — start fresh or jump back into an earlier chat.",
+        "Each saved conversation reopens with its team snapshot cards intact."
+      ]
+    },
+    {
       "code": 1354,
       "name": "0.1.354",
       "date": "10 Nov 2026",
