@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1358,
+      "name": "0.1.358",
+      "date": "2026-11-12",
+      "notes": [
+        "SEA Chat is back. The leadership 'Ask SEA about the team' chat (answers from live CRM data) was missing from recent builds and is now restored."
+      ]
+    },
+    {
       "code": 1357,
       "name": "0.1.357",
       "date": "12 Nov 2026",
@@ -14,7 +22,7 @@
       "date": "11 Nov 2026",
       "notes": [
         "Ask SEA now keeps your chat history: your past conversations are saved and you can reopen any of them.",
-        "New: New conversation and History buttons in the top bar — start fresh or jump back into an earlier chat.",
+        "New: New conversation and History buttons in the top bar \u2014 start fresh or jump back into an earlier chat.",
         "Each saved conversation reopens with its team snapshot cards intact."
       ]
     },
@@ -24,7 +32,7 @@
       "date": "10 Nov 2026",
       "notes": [
         "Ask SEA now reads clearly: a team snapshot card with attendance, inside sales (calls) and field sales (visits and meetings) kept separate, plus who needs attention.",
-        "Field sales is measured by in-person visits and meetings, not calls — field reps are no longer shown as idle just because they didn't dial.",
+        "Field sales is measured by in-person visits and meetings, not calls \u2014 field reps are no longer shown as idle just because they didn't dial.",
         "Answers are formatted (headings and bullets) instead of one long line."
       ]
     },
@@ -33,7 +41,7 @@
       "name": "0.1.353",
       "date": "10 Nov 2026",
       "notes": [
-        "New: Ask SEA about the team — a chat that answers from your live CRM data: who's in today, each rep's day, calls, overdue follow-ups and the pipeline.",
+        "New: Ask SEA about the team \u2014 a chat that answers from your live CRM data: who's in today, each rep's day, calls, overdue follow-ups and the pipeline.",
         "Open it from SEA, then \"Ask SEA about the team\". Rolling out to leadership first."
       ]
     },
@@ -42,7 +50,7 @@
       "name": "0.1.352",
       "date": "10 Nov 2026",
       "notes": [
-        "No-answer WhatsApp: the message is now written for you from the deal and stage — who you are, why you called, and when to call back — instead of 14 presets.",
+        "No-answer WhatsApp: the message is now written for you from the deal and stage \u2014 who you are, why you called, and when to call back \u2014 instead of 14 presets.",
         "Purpose, tone and callback-window chips regenerate it; tap the bubble to edit.",
         "New: Remind me to call back creates a callback task from the same sheet (+2h, next morning, or a time you pick).",
         "Missed incoming calls get a proper 'sorry I missed your call' reply; a second attempt the same day sends a short nudge without re-introducing yourself.",
