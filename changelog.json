@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1357,
+      "name": "0.1.357",
+      "date": "12 Nov 2026",
+      "notes": [
+        "When you preview the app as another user, a bar now shows who you're viewing as, with a one-tap Exit preview to return to your own view."
+      ]
+    },
+    {
       "code": 1355,
       "name": "0.1.355",
       "date": "11 Nov 2026",
