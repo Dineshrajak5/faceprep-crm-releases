@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1359,
+      "name": "0.1.359",
+      "date": "2026-11-14",
+      "notes": [
+        "Reps now see only their own territory's accounts when planning a visit, adding a contact, or tagging a call \u2014 the account pickers no longer list every college. Admins and managers are unchanged."
+      ]
+    },
+    {
       "code": 1358,
       "name": "0.1.358",
       "date": "2026-11-12",
