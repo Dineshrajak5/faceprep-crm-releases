@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1360,
+      "name": "0.1.360",
+      "date": "2026-11-17",
+      "notes": [
+        "Fixes accounts (and contacts, deals, plans) that were missing or showing empty on phones \u2014 the app was only loading the first 1000 records. It now loads every record, so all your territory's colleges appear again."
+      ]
+    },
+    {
       "code": 1359,
       "name": "0.1.359",
       "date": "2026-11-14",
