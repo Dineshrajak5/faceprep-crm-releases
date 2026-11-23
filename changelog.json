@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1361,
+      "name": "0.1.361",
+      "date": "2026-11-23",
+      "notes": [
+        "Calls can now be tagged to a college's pending collection item, just like an opportunity. Tag it when you log the call and the summary appears on that collection's timeline."
+      ]
+    },
+    {
       "code": 1360,
       "name": "0.1.360",
       "date": "2026-11-17",
