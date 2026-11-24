@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1366,
+      "name": "0.1.366",
+      "date": "2026-11-24",
+      "notes": [
+        "Makes the app fast again after 0.1.365 \u2014 no more lag or hanging on large accounts. Your full call history and summaries are unchanged."
+      ]
+    },
+    {
       "code": 1365,
       "name": "0.1.365",
       "date": "2026-11-24",
