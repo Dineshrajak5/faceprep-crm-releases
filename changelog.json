@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1365,
+      "name": "0.1.365",
+      "date": "2026-11-24",
+      "notes": [
+        "Fixes a crash on launch that affected 0.1.363. Your full call history, with summaries, is back and safe."
+      ]
+    },
+    {
       "code": 1363,
       "name": "0.1.363",
       "date": "2026-11-24",
