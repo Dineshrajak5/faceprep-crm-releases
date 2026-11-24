@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "code": 1363,
+      "name": "0.1.363",
+      "date": "2026-11-24",
+      "notes": [
+        "Calls now load your full history again (older calls and their summaries had stopped showing). The AI's category is pre-selected when it is confident, and unanswered calls are noted as RNR automatically."
+      ]
+    },
+    {
       "code": 1361,
       "name": "0.1.361",
       "date": "2026-11-23",
